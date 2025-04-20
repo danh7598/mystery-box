@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What Korean movie won Best Picture at the Oscars in 2020?",
+    "choices": ["Train to Busan", "Memories of Murder", "Parasite", "The Handmaiden"],
+    "answer": 2
+  },
+  {
+    "question": "Which anime features a comet and body-swapping?",
+    "choices": ["Spirited Away", "Your Name", "Naruto", "Weathering With You"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the hobbit in The Hobbit?",
+    "choices": ["Frodo", "Sam", "Bilbo Baggins", "Gandalf"],
+    "answer": 2
+  },
+  {
+    "question": "Who directed Avatar (2010)?",
+    "choices": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Peter Jackson"],
+    "answer": 1
+  },
+  {
+    "question": "Which anime features a comet and body-swapping?",
+    "choices": ["Spirited Away", "Your Name", "Naruto", "Weathering With You"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the hobbit in The Hobbit?",
+    "choices": ["Frodo", "Sam", "Bilbo Baggins", "Gandalf"],
+    "answer": 2
+  },
+  {
+    "question": "Who directed Avatar (2010)?",
+    "choices": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Peter Jackson"],
+    "answer": 1
+  },
+  {
+    "question": "Which anime features a comet and body-swapping?",
+    "choices": ["Spirited Away", "Your Name", "Naruto", "Weathering With You"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the hobbit in The Hobbit?",
+    "choices": ["Frodo", "Sam", "Bilbo Baggins", "Gandalf"],
+    "answer": 2
+  },
+  {
+    "question": "Who directed Avatar (2010)?",
+    "choices": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Peter Jackson"],
+    "answer": 1
+  },
+  {
+    "question": "Which anime features a comet and body-swapping?",
+    "choices": ["Spirited Away", "Your Name", "Naruto", "Weathering With You"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the hobbit in The Hobbit?",
+    "choices": ["Frodo", "Sam", "Bilbo Baggins", "Gandalf"],
+    "answer": 2
+  }
+]
